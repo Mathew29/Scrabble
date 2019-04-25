@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.AssemblyInfo.cs
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/ScrabbleTest.deps.json
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/ScrabbleTest.runtimeconfig.json
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/ScrabbleTest.runtimeconfig.dev.json
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/ScrabbleTest.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/ScrabbleTest.pdb
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/bin/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.csproj.CopyComplete
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.dll
+/Users/Guest/Desktop/ScrabbleScore.Solutions/ScrabbleTest/obj/Debug/netcoreapp2.2/ScrabbleTest.pdb
