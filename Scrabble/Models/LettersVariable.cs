@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 namespace Letters.Models
 {
-  public class Words
+  public class LettersVariable
   {
     private string _words;
+    private string value;
     Dictionary<char, int> scrabbleDict = new Dictionary<char, int>()
     {{'A', 1},{'E', 1},{'I', 1},{'O', 1},{'U', 1},{'L', 1},{'N', 1},{'R', 1},{'S', 1},{'T', 1},
     {'G', 2}, {'D', 2},
@@ -16,10 +17,34 @@ namespace Letters.Models
     {'Q', 10},{'Z', 10}
   };
 
-  public Words ()
-  {
+//constructor
 
+  public LettersVariable(string words)
+  {
+    _words = words;
   }
+
+  public void SetWords(string newWords)
+    {
+      _words = newWords;
+    }
+
+  public string GetWords()
+    {
+      return _words;
+    }
+
+
+    public string GetValue()
+      {
+        return value;
+      }
+
+    public void SetValue(string newValue)
+      {
+        value = newValue;
+      }
+
   //
   // public int GetValueFromLetter()
   // {
@@ -30,10 +55,10 @@ namespace Letters.Models
   //   }
   //     return 0;
   // }
-  public int ReturnValueFromDictionary(string words)
+  public int ReturnValueFromDictionary()
   {
 
-    string input = words.ToUpper();
+    string input = GetWords().ToUpper();
     int value = 0;
     char[] letters = input.ToCharArray();
     foreach(char letter in letters)
